@@ -1,0 +1,2 @@
+PyMuPDF==1.24.13
+setuptools==75.5.0
